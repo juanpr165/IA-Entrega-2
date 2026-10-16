@@ -1,0 +1,5 @@
+langchain-core>=0.3,<2
+langchain-openai>=0.3,<2
+langchain-groq>=0.3,<2
+pydantic>=2.7,<3
+python-dotenv>=1.0,<2
